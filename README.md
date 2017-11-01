@@ -19,5 +19,7 @@ Field-testing in virtualbox before testing on bare-metal
 ## URLs
 
 https://ubuntuforums.org/showthread.php?t=2361552
+
 https://www.youtube.com/watch?v=klPtcdle_XQ
+
 https://askubuntu.com/questions/122505/how-do-i-create-a-completely-unattended-install-of-ubuntu/122506#122506
