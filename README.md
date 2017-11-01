@@ -28,6 +28,10 @@ https://askubuntu.com/questions/122505/how-do-i-create-a-completely-unattended-i
 
 https://unix.stackexchange.com/questions/139814/what-values-from-debconf-get-selections-should-not-be-preseeded
 
+https://serverfault.com/questions/143296/how-to-get-http-preseed-to-work-correctly-on-ubuntu-10-04-lts-lucid
+
+https://www.lifewire.com/ubuntu-15-04-vs-xubuntu-15-04-2201174
+
 ## Current hardware
 
 Commands are executed as root on Ubuntu 16.04.3 LTS.
