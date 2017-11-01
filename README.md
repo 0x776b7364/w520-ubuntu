@@ -16,6 +16,8 @@ Post-install scripts
 
 Field-testing in virtualbox before testing on bare-metal
 
+Candidate ISOs: 16.04.3/17.10 Desktop/Server minimal/full
+
 ## URLs
 
 https://ubuntuforums.org/showthread.php?t=2361552
@@ -23,3 +25,5 @@ https://ubuntuforums.org/showthread.php?t=2361552
 https://www.youtube.com/watch?v=klPtcdle_XQ
 
 https://askubuntu.com/questions/122505/how-do-i-create-a-completely-unattended-install-of-ubuntu/122506#122506
+
+https://unix.stackexchange.com/questions/139814/what-values-from-debconf-get-selections-should-not-be-preseeded
