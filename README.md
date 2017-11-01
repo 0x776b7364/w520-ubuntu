@@ -27,3 +27,11 @@ https://www.youtube.com/watch?v=klPtcdle_XQ
 https://askubuntu.com/questions/122505/how-do-i-create-a-completely-unattended-install-of-ubuntu/122506#122506
 
 https://unix.stackexchange.com/questions/139814/what-values-from-debconf-get-selections-should-not-be-preseeded
+
+## Current hardware
+
+Commands are executed as root on Ubuntu 16.04.3 LTS.
+
+[lshw](lshw-16.04.3.txt)
+
+[lsusb](lsusb-16.04.3.txt)
