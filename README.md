@@ -44,3 +44,15 @@ Commands are executed as root on Ubuntu 16.04.3 LTS.
 [lshw](lshw-16.04.3.txt)
 
 [lsusb](lsusb-16.04.3.txt)
+
+```
+4270-CTO
+Processor: Intel Core i7-2760QM Processor (2.40 GHz, 6MB L3)
+Display type: 15.6″ FHD (1920 x 1080) LED Backlit Anti-Glare Display, Mobile Broadband Ready
+System graphics: NVIDIA Quadro 1000M Graphics with 2GB DDR3 Memory
+Total memory: 4x 4 GB DDR3 – 1333MHz (total of 16 GB)
+Hard drive: Intel 40 GB SSD SATA
+Secondary hard drive: Ultrabay with 750GB WD Scorpio Blue 5400rpm
+Bluetooth: Broadcam Bluetooth
+Integrated WiFi wireless LAN adapters: Intel Centrino Advanced-N 6205 (2×2 AGN)
+```
