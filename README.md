@@ -18,6 +18,11 @@ Field-testing in virtualbox before testing on bare-metal
 
 Candidate ISOs: 16.04.3/17.10 Desktop/Server minimal/full
 
+Default python version per distro:
+- 16.04: 3.5.1
+- 17.10: 2.7.14
+- 18.04: 3.6.3?
+
 ## URLs
 
 https://ubuntuforums.org/showthread.php?t=2361552
