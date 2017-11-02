@@ -37,6 +37,12 @@ https://serverfault.com/questions/143296/how-to-get-http-preseed-to-work-correct
 
 https://www.lifewire.com/ubuntu-15-04-vs-xubuntu-15-04-2201174
 
+https://xubuntu.org/news/introducing-xubuntu-core/
+
+https://askubuntu.com/questions/96641/xubuntu-desktop-minimal-installation
+
+https://askubuntu.com/questions/396611/difference-between-lubuntu-mini-core-and-lubuntu-mini-desktop
+
 ## Commands
 
 ```bash
