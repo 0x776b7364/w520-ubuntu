@@ -47,7 +47,12 @@ lsusb
 debconf-get-selections --installer
 debconf-get-selections
 pkginstalls.sh (from https://help.ubuntu.com/community/ListInstalledPackagesByDate?action=AttachFile&do=get&target=pkginstalls.sh)
+df -h
 ```
+
+## Tasksel
+
+TBA
 
 ## Current hardware
 
