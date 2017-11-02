@@ -37,13 +37,25 @@ https://serverfault.com/questions/143296/how-to-get-http-preseed-to-work-correct
 
 https://www.lifewire.com/ubuntu-15-04-vs-xubuntu-15-04-2201174
 
+## Commands
+
+```bash
+apt list --installed
+grep " installed" /var/log/dpkg.log*
+lshw
+lsusb
+debconf-get-selections --installer
+debconf-get-selections
+pkginstalls.sh (from https://help.ubuntu.com/community/ListInstalledPackagesByDate?action=AttachFile&do=get&target=pkginstalls.sh)
+```
+
 ## Current hardware
 
 Commands are executed as root on Ubuntu 16.04.3 LTS.
 
-[lshw](lshw-16.04.3.txt)
+[lshw](native-lshw-16.04.3.txt)
 
-[lsusb](lsusb-16.04.3.txt)
+[lsusb](native-lsusb-16.04.3.txt)
 
 ```
 4270-CTO
