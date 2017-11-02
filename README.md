@@ -16,7 +16,7 @@ Post-install scripts
 
 Field-testing in virtualbox before testing on bare-metal
 
-Candidate ISOs: 16.04.3/17.10 Desktop/Server minimal/full
+Candidate ISOs: 16.04.3/17.10 mini
 
 Default python version per distro:
 - 16.04: 3.5.1
@@ -52,7 +52,7 @@ lshw
 lsusb
 debconf-get-selections --installer
 debconf-get-selections
-pkginstalls.sh (from https://help.ubuntu.com/community/ListInstalledPackagesByDate?action=AttachFile&do=get&target=pkginstalls.sh)
+pkginstalls.sh
 df -h
 ```
 
