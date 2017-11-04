@@ -1,0 +1,37 @@
+Software selection
+
+Ubuntu Cloud Image (instance)
+DNS server
+Kubuntu desktop
+Kubuntu full
+LAMP server
+Lubuntu minimal installation
+Lubuntu Desktop
+Lubuntu minimal installation (GTK part)
+Lubuntu Desktop (GTK part)
+Lubuntu minimal installation (Qt part)
+Lubuntu Desktop (Qt part)
+Mail server
+PostgreSQL database
+Print server
+Samba file server
+Tomcat Java server
+Ubuntu Budgie desktop
+Ubuntu desktop
+Ubuntu MATE minimal
+Ubuntu MATE desktop
+Ubuntu desktop USB
+Audio recording and editing suite
+Ubuntu Studio desktop
+Ubuntu Studio minimal DE installation
+Large selection of font packages
+2D/3D creation and editing suite
+Photograph touchup and editing suite
+Publishing applications
+Video creation and editing suite
+Vanilla GNOME desktop
+Xubuntu minimal installation
+Xubuntu desktop
+OpenSSH server
+Basic Ubuntu server
+
